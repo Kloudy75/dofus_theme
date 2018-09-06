@@ -1,0 +1,27 @@
+[
+	{
+	"author" : "Kloudy", 
+	"name" : "KloudarkOpacity 2.0", 
+	"keyWords" : "kloudarkOpacity", 
+	"version" : "2.0.0", 
+	"dofusVersion" : "2.48", 
+	"description" : "Modification du thème darkOpacity créé par Aspette", 
+	"url" : "https://raw.githubusercontent.com/Kloudy75/dofus_theme/master/kloudarkOpacity2.0.zip", 
+	"previewUrl" : "https://github.com/Kloudy75/dofus_theme/blob/master/crane.png?raw=true", 
+	"creationDate" : "04/09/2018", 
+	"modificationDate" : "04/09/2018"
+    },
+	
+	{
+	"author" : "Kloudy", 
+	"name" : "darkOpacity 2.1.0", 
+	"keyWords" : "darkOpacity", 
+	"version" : "2.1.0", 
+	"dofusVersion" : "2.48", 
+	"description" : "La version 2.1 de darkOpacity compatible 2.47 et 2.48. (My Twitter : @Aspette)", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacity210.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacity210.jpg", 
+	"creationDate" : "01/08/2017", 
+	"modificationDate" : "03/09/2018"
+    }
+]
